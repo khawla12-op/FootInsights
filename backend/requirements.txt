@@ -1,4 +1,4 @@
-django==3.0.5
+django==3.2.25
 djangorestframework 
 pymongo==3.12.3
 Pytz
