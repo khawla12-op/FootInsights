@@ -3,3 +3,5 @@ backend/venv
 build/
 dist/
 *.log
+package-lock.json
+package.json
