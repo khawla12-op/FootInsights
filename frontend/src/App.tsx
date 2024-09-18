@@ -16,10 +16,11 @@ import { authProvider, dataProvider, liveProvider} from "./providers";
 import { Home, ForgetPassword ,Login , Register} from './pages';
 import Layout from "./components/layout";
 import { resources } from "./config/ressources";
-import PlayerTable from "./components/players/players";
-import PlayerDetail from "./components/players/PlayerDetail";
-import EditPlayer from "./components/players/EditPlayer";
+
+// import EditPlayer from "./components/players/EditPlayer";
+import Player from "./components/players/PlayerDetail"
 import FootballField from "./components/terrain/heatMap";
+import ChatbotComponent from "./components/chatbot/chatbot";
 function App() {
   return (
     <BrowserRouter>
@@ -59,11 +60,12 @@ function App() {
                   }
                 >
                   <Route index element={<Home />}/>
-                  <Route path="/players" element={<PlayerTable />} />
-                  <Route path="/players/:id" element={<PlayerDetail />} />
-                  <Route path="/players/edit/:id" element={<EditPlayer />} />
+                  {/* <Route path="/players" element={<PlayerTable />} /> */}
+                  <Route path="/players" element={<Player />} />
+                  {/* <Route path="/players/edit/:id" element={<EditPlayer />} /> */} 
+                  
                   <Route path="/heatmap" element={<FootballField/>} />
-
+                  <Route path="/chatbot" element={<ChatbotComponent/>}/>
                   
                   </Route>
 

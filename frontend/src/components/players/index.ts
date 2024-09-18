@@ -1,1 +1,0 @@
-import PlayerTable from "./players";

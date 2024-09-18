@@ -1,7 +1,8 @@
 from djongo import models
+from bson import ObjectId
 
 class FootInsight(models.Model):
-    id = models.ObjectIdField()
+    _id = models.AutoField(primary_key=True)  # Use AutoField for auto-incrementing integer ID
     Name = models.CharField(max_length=255)
     photoUrl = models.URLField()
     Best_Position = models.CharField(max_length=50)

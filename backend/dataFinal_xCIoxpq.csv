@@ -1,0 +1,106 @@
+Name,photoUrl,Best_Position,Age,Stamina,Strength,Height,Weight,Agility,Acceleration,Sprint_Speed,Nationality,Club,Cardiac_Frequency,Humidity,Temperature,Status,status_encoded
+H. Ziyech,https://cdn.sofifa.com/players/208/670/21_60.png,CAM,27,80,59,181,65,85,83,77,Morocco,Chelsea,118,40,25,Normal,3
+A. Hakimi,https://cdn.sofifa.com/players/235/212/21_60.png,RM,21,86,73,181,73,77,93,95,Morocco,Inter,140,79,23,Risk of injury,5
+A. Hamdallah,https://cdn.sofifa.com/players/213/761/21_60.png,ST,29,87,77,179,81,78,77,76,Morocco,Al Nassr,160,95,29,Normal,3
+N. Amrabat,https://cdn.sofifa.com/players/183/108/21_60.png,RM,33,79,80,180,85,86,81,77,Morocco,Al Nassr,79,55,29,Fatigue,1
+Y. En-Nesyri,https://cdn.sofifa.com/players/235/410/21_60.png,ST,23,76,75,188,78,67,72,80,Morocco,Sevilla FC,84,89,22,Fatigue,1
+R. Saïss,https://cdn.sofifa.com/players/208/295/21_60.png,CB,30,73,73,188,84,65,59,64,Morocco,Wolverhampton Wanderers,115,91,18,Pause,4
+Z. Feddal,https://cdn.sofifa.com/players/205/705/21_60.png,CB,30,60,79,192,84,45,53,59,Morocco,Sporting CP,103,84,23,Pause,4
+Y. Belhanda,https://cdn.sofifa.com/players/193/738/21_60.png,CAM,30,84,63,179,75,85,75,72,Morocco,Galatasaray SK,91,99,27,Normal,3
+Y. El Arabi,https://cdn.sofifa.com/players/194/209/21_60.png,ST,33,69,78,183,84,82,75,68,Morocco,Olympiacos CFP,160,50,29,Pause,4
+N. Mazraoui,https://cdn.sofifa.com/players/236/401/21_60.png,RM,22,81,62,183,62,86,78,83,Morocco,Ajax,150,73,19,Normal,3
+O. Idrissi,https://cdn.sofifa.com/players/228/747/21_60.png,CAM,24,77,69,175,78,80,85,84,Morocco,Sevilla FC,77,70,22,Fatigue,1
+A. Taarabt,https://cdn.sofifa.com/players/179/605/21_60.png,CAM,31,78,67,185,75,74,69,67,Morocco,SL Benfica,145,49,26,Fatigue,1
+Y. Abdelhamid,https://cdn.sofifa.com/players/206/493/21_60.png,CB,32,79,83,190,83,35,36,32,Morocco,Stade de Reims,125,69,27,Fatigue,1
+S. Amrabat,https://cdn.sofifa.com/players/224/158/21_60.png,CDM,23,86,79,185,70,68,79,77,Morocco,Fiorentina,102,46,28,Normal,3
+A. Harit,https://cdn.sofifa.com/players/232/097/21_60.png,CAM,23,73,37,180,67,87,84,63,Morocco,FC Schalke 04,114,88,30,Fatigue,1
+Y. Bounou,https://cdn.sofifa.com/players/209/981/21_60.png,GK,29,43,69,192,78,38,37,34,Morocco,Sevilla FC,155,89,27,Pause,4
+F. Fajr,https://cdn.sofifa.com/players/205/083/21_60.png,CM,31,66,67,178,71,73,63,59,Morocco,Sivasspor,143,89,16,Pause,4
+S. Boufal,https://cdn.sofifa.com/players/211/381/21_60.png,LM,26,54,52,175,67,88,79,77,Morocco,Angers SCO,170,61,21,Fatigue,1
+K. El Ahmadi,https://cdn.sofifa.com/players/162/329/21_60.png,CDM,35,81,75,181,78,72,62,59,Morocco,Al Ittihad,112,47,30,Fatigue,1
+J. El Yamiq,https://cdn.sofifa.com/players/241/775/21_60.png,CB,28,70,79,192,83,72,68,70,Morocco,Real Valladolid CF,105,87,21,Fatigue,1
+M. Carcela-González,https://cdn.sofifa.com/players/184/089/21_60.png,RW,31,58,49,175,68,85,77,72,Morocco,Standard de Liège,153,65,22,Pause,4
+N. Dirar,https://cdn.sofifa.com/players/177/525/21_60.png,RM,34,69,75,187,79,74,77,79,Morocco,Fenerbahçe SK,61,59,20,Pause,4
+O. Tannane,https://cdn.sofifa.com/players/208/045/21_60.png,CAM,26,65,77,177,80,73,77,80,Morocco,Vitesse,156,55,19,Fatigue,1
+Z. Labyad,https://cdn.sofifa.com/players/198/640/21_60.png,CAM,27,63,56,175,65,75,74,71,Morocco,Ajax,141,43,21,Fatigue,1
+O. El Hajjam,https://cdn.sofifa.com/players/234/514/21_60.png,RB,29,86,70,180,72,66,70,71,Morocco,ESTAC Troyes,147,53,21,Normal,3
+O. El Kaddouri,https://cdn.sofifa.com/players/187/702/21_60.png,CAM,29,70,77,185,82,63,68,73,Morocco,PAOK,62,96,20,Pause,4
+Z. Bergdich,https://cdn.sofifa.com/players/199/800/21_60.png,LB,31,80,71,178,69,77,84,81,Morocco,Denizlispor,104,99,29,Normal,3
+S. Amallah,https://cdn.sofifa.com/players/229/010/21_60.png,CAM,23,76,65,186,82,71,70,68,Morocco,Standard de Liège,134,79,27,Fatigue,1
+Y. Aït Bennasser,https://cdn.sofifa.com/players/230/042/21_60.png,CAM,23,66,67,184,74,71,66,68,Morocco,AS Monaco,165,93,24,Fatigue,1
+F. Chafik,https://cdn.sofifa.com/players/210/434/21_60.png,RB,33,84,72,183,72,68,67,64,Morocco,Dijon FCO,104,86,21,Fatigue,1
+Munir,https://cdn.sofifa.com/players/223/573/21_60.png,GK,31,43,77,190,89,43,45,45,Morocco,Hatayspor,150,64,24,Pause,4
+R. Alioui,https://cdn.sofifa.com/players/205/188/21_60.png,ST,28,63,79,186,82,69,66,69,Morocco,Angers SCO,69,42,25,Fatigue,1
+I. Chebake,https://cdn.sofifa.com/players/223/511/21_60.png,RB,30,75,64,176,73,72,68,72,Morocco,Yeni Malatyaspor,171,59,23,Pause,4
+A. Chahechouhe,https://cdn.sofifa.com/players/187/939/21_60.png,CAM,33,67,59,176,68,71,74,72,Morocco,Fatih Karagümrük S.K.,105,99,15,Pause,4
+Y. Ayoub,https://cdn.sofifa.com/players/204/102/21_60.png,LM,26,69,68,174,70,74,71,68,Morocco,Panathinaikos FC,107,76,30,Fatigue,1
+Y. Mokhtar,https://cdn.sofifa.com/players/200/275/21_60.png,LM,28,59,63,177,75,78,76,74,Morocco,Columbus Crew SC,108,58,30,Fatigue,1
+M. Mahi,https://cdn.sofifa.com/players/225/114/21_60.png,CAM,26,67,65,187,78,78,76,75,Morocco,FC Utrecht,175,96,26,Pause,4
+Y. Benrahou,https://cdn.sofifa.com/players/244/863/21_60.png,CAM,21,57,52,170,68,83,71,69,Morocco,Nîmes Olympique,137,60,21,Fatigue,1
+M. Fouzair,https://cdn.sofifa.com/players/240/526/21_60.png,RM,28,70,61,168,69,83,81,82,Morocco,Al Raed,179,77,17,Pause,4
+D. Fettouhi,https://cdn.sofifa.com/players/188/721/21_60.png,CAM,30,73,67,182,74,80,68,68,Morocco,Al Ahli,121,52,22,Pause,4
+H. Mendyl,https://cdn.sofifa.com/players/238/346/21_60.png,LB,22,64,66,179,73,71,85,88,Morocco,FC Schalke 04,138,96,27,Fatigue,1
+I. Aissati,https://cdn.sofifa.com/players/177/151/21_60.png,CAM,31,70,58,174,70,78,75,61,Morocco,Denizlispor,179,56,28,Pause,4
+M. Bourabia,https://cdn.sofifa.com/players/198/220/21_60.png,CM,28,66,59,183,73,66,61,57,Morocco,Sassuolo,84,51,21,Pause,4
+Y. Bammou,https://cdn.sofifa.com/players/223/875/21_60.png,ST,28,65,74,188,78,70,65,67,Morocco,Stade Malherbe Caen,125,82,24,Fatigue,1
+A. El Messaoudi,https://cdn.sofifa.com/players/220/968/21_60.png,CM,24,74,82,182,83,64,55,72,Morocco,FC Groningen,102,73,19,Fatigue,1
+J. Daoudi,https://cdn.sofifa.com/players/251/890/21_60.png,CDM,31,86,74,175,73,68,71,72,Morocco,Al Raed,84,60,28,Normal,3
+T. Tissoudali,https://cdn.sofifa.com/players/233/483/21_60.png,LW,27,69,54,182,74,81,76,76,Morocco,Beerschot AC,146,64,17,Fatigue,1
+S. Kiyine,https://cdn.sofifa.com/players/240/658/21_60.png,CAM,22,71,56,182,75,75,69,75,Morocco,Lazio,100,49,30,Fatigue,1
+H. Sakhi,https://cdn.sofifa.com/players/216/463/21_60.png,CAM,24,68,47,176,72,74,71,71,Morocco,AJ Auxerre,168,76,17,Fatigue,1
+I. Chair,https://cdn.sofifa.com/players/238/490/21_60.png,CAM,22,70,41,171,64,83,76,74,Morocco,Queens Park Rangers,110,65,28,Fatigue,1
+A. Bouhaddouz,https://cdn.sofifa.com/players/188/305/21_60.png,ST,33,61,84,188,88,59,53,65,Morocco,SV Sandhausen,129,68,30,Pause,4
+A. Bassi,https://cdn.sofifa.com/players/238/504/21_60.png,CAM,22,72,56,173,65,76,72,65,Morocco,AS Nancy Lorraine,92,93,18,Fatigue,1
+A. M'hamdi,https://cdn.sofifa.com/players/251/185/21_60.png,GK,28,36,64,192,85,36,56,55,Morocco,Abha Club,62,78,30,Pause,4
+N. Aguerd,https://cdn.sofifa.com/players/244/749/21_60.png,CB,24,67,74,188,76,46,42,58,Morocco,Stade Rennais FC,61,49,27,Fatigue,1
+A. Ouahim,https://cdn.sofifa.com/players/241/741/21_60.png,RM,22,78,44,175,68,83,79,69,Morocco,SV Sandhausen,131,40,16,Fatigue,1
+M. Saadane,https://cdn.sofifa.com/players/235/890/21_60.png,CDM,28,76,77,187,75,63,58,59,Morocco,Al Fateh,61,87,23,Fatigue,1
+H. Boussefiane,https://cdn.sofifa.com/players/245/492/21_60.png,RM,22,64,38,176,65,81,88,87,Morocco,Málaga CF,68,86,27,Risk of injury,5
+M. El Hankouri,https://cdn.sofifa.com/players/234/740/21_60.png,CAM,23,65,43,176,70,77,78,78,Morocco,FC Groningen,69,97,29,Fatigue,1
+A. Tahiri,https://cdn.sofifa.com/players/220/965/21_60.png,RM,25,71,34,179,61,80,77,75,Morocco,RKC Waalwijk,158,46,29,Fatigue,1
+A. Atouchi,https://cdn.sofifa.com/players/252/461/21_60.png,CB,28,71,72,186,78,52,58,60,Morocco,Abha Club,156,97,25,Fatigue,1
+S. Agouzoul,https://cdn.sofifa.com/players/251/751/21_60.png,CB,22,44,74,191,75,41,52,57,Morocco,Royal Excel Mouscron,138,57,23,Fatigue,1
+M. Ezzarfani,https://cdn.sofifa.com/players/240/120/21_60.png,RM,22,57,59,176,75,70,74,73,Morocco,CD Mirandés,168,90,25,Fatigue,1
+S. Chakla,https://cdn.sofifa.com/players/220/388/21_60.png,CB,26,54,74,186,77,55,52,54,Morocco,Villarreal CF,176,82,25,Pause,4
+N. Boujellab,https://cdn.sofifa.com/players/248/174/21_60.png,CAM,21,59,47,182,72,77,71,68,Morocco,FC Schalke 04,78,55,29,Fatigue,1
+Y. Qasmi,https://cdn.sofifa.com/players/201/924/21_60.png,ST,29,54,78,183,75,63,50,61,Morocco,Rayo Vallecano,153,71,24,Pause,4
+A. El Kaoutari,https://cdn.sofifa.com/players/188/145/21_60.png,CB,30,62,71,181,83,53,65,55,Morocco,AS Nancy Lorraine,121,45,20,Pause,4
+A. Khammas,https://cdn.sofifa.com/players/239/806/21_60.png,LM,21,68,38,176,62,83,76,78,Morocco,Waasland-Beveren,162,92,16,Fatigue,1
+B. Ould-Chikh,https://cdn.sofifa.com/players/221/907/21_60.png,CAM,22,47,50,170,60,71,74,69,Morocco,ADO Den Haag,78,61,28,Fatigue,1
+O. Siddiki,https://cdn.sofifa.com/players/242/278/21_60.png,ST,22,60,59,179,63,62,62,64,Morocco,UD Logroñés,132,95,20,Pause,4
+D. Khalid,https://cdn.sofifa.com/players/241/275/21_60.png,CAM,21,51,62,180,78,63,62,65,Morocco,Amiens SC,174,99,25,Pause,4
+K. Ruiz-Atil,https://cdn.sofifa.com/players/257/318/21_60.png,CAM,17,59,30,173,60,80,69,68,Morocco,Paris Saint-Germain,164,75,30,Fatigue,1
+I. El Harchi,https://cdn.sofifa.com/players/258/338/21_60.png,ST,21,58,65,190,79,55,59,55,Morocco,FC Cartagena,77,53,19,Fatigue,1
+A. Abqar,https://cdn.sofifa.com/players/245/628/21_60.png,CB,21,61,67,188,80,49,48,53,Morocco,Deportivo Alavés,98,93,15,Fatigue,1
+J. Khayat,https://cdn.sofifa.com/players/255/534/21_60.png,LWB,27,70,61,178,77,62,66,64,Morocco,Mjällby AIF,156,73,29,Pause,4
+C. Riad,https://cdn.sofifa.com/players/258/490/21_60.png,CB,17,60,56,178,70,56,59,58,Morocco,CE Sabadell FC,155,98,29,Pause,4
+S. Ben Amar,https://cdn.sofifa.com/players/241/905/21_60.png,ST,22,54,63,185,76,49,62,61,Morocco,Nîmes Olympique,146,43,30,Pause,4
+A. Mourid,https://cdn.sofifa.com/players/255/396/21_60.png,CDM,20,57,64,182,77,51,50,60,Morocco,CD Leganés,137,88,30,Pause,4
+A. André Jr,https://cdn.sofifa.com/players/240/884/21_60.png,GK,23,27,51,188,80,42,54,48,Morocco,Bristol Rovers,159,61,30,Pause,4
+R. Khaleel,https://cdn.sofifa.com/players/258/661/21_60.png,RM,17,47,40,177,64,75,74,72,Morocco,Crawley Town,68,52,21,Fatigue,1
+M. Bíttolo,https://cdn.sofifa.com/players/215/148/21_60.png,LB,30,78,57,174,66,67,73,78,Argentina,Newell's Old Boys,170,67,21,Pause,4
+I. Scocco,https://cdn.sofifa.com/players/171/828/21_60.png,CF,35,62,64,177,73,79,71,70,Argentina,Newell's Old Boys,75,59,28,Pause,4
+A. Aguerre,https://cdn.sofifa.com/players/215/123/21_60.png,GK,29,34,62,181,80,45,49,43,Argentina,Newell's Old Boys,133,41,22,Pause,4
+S. Palacios,https://cdn.sofifa.com/players/212/715/21_60.png,RM,28,74,63,170,69,88,86,89,Argentina,Newell's Old Boys,138,51,24,Risk of injury,5
+M. Rodríguez,https://cdn.sofifa.com/players/110/381/21_60.png,CAM,39,48,70,173,74,72,65,68,Argentina,Newell's Old Boys,180,73,30,Pause,4
+P. Pérez,https://cdn.sofifa.com/players/215/079/21_60.png,CDM,34,74,77,175,80,67,65,61,Argentina,Newell's Old Boys,139,76,24,Pause,4
+J. Fernández,https://cdn.sofifa.com/players/219/452/21_60.png,CDM,25,83,73,180,72,70,70,72,Argentina,Newell's Old Boys,159,89,25,Normal,3
+S. Gentiletti,https://cdn.sofifa.com/players/205/408/21_60.png,CB,35,50,76,182,77,56,52,53,Argentina,Newell's Old Boys,142,42,27,Pause,4
+C. Insaurralde,https://cdn.sofifa.com/players/205/631/21_60.png,ST,28,78,64,180,72,72,72,77,Argentina,Newell's Old Boys,104,82,23,Fatigue,1
+M. Formica,https://cdn.sofifa.com/players/192/370/21_60.png,CAM,32,47,60,176,70,69,73,70,Argentina,Newell's Old Boys,116,56,25,Pause,4
+J. Torres,https://cdn.sofifa.com/players/233/090/21_60.png,LM,23,67,57,167,70,91,81,89,Argentina,Newell's Old Boys,157,64,29,Fatigue,1
+J. Cacciabue,https://cdn.sofifa.com/players/242/294/21_60.png,CDM,22,66,59,173,73,62,55,55,Argentina,Newell's Old Boys,150,92,30,Pause,4
+F. Nadalín,https://cdn.sofifa.com/players/241/837/21_60.png,RB,22,69,62,176,73,70,72,70,Argentina,Newell's Old Boys,129,87,15,Fatigue,1
+F. Fontanini,https://cdn.sofifa.com/players/215/215/21_60.png,CB,30,74,78,181,80,58,29,48,Argentina,Newell's Old Boys,80,76,30,Pause,4
+M. Guanini,https://cdn.sofifa.com/players/228/893/21_60.png,CB,24,67,86,191,86,44,38,36,Argentina,Newell's Old Boys,169,57,18,Fatigue,1
+M. Orihuela,https://cdn.sofifa.com/players/224/337/21_60.png,LB,28,79,56,177,70,69,69,68,Argentina,Newell's Old Boys,120,40,28,Pause,4
+S. Callegari,https://cdn.sofifa.com/players/243/129/21_60.png,CB,23,63,76,188,83,49,49,52,Argentina,Newell's Old Boys,147,94,27,Fatigue,1
+D. Rodríguez,https://cdn.sofifa.com/players/222/611/21_60.png,CAM,24,65,45,171,67,71,71,68,Argentina,Newell's Old Boys,131,85,29,Fatigue,1
+R. Macagno,https://cdn.sofifa.com/players/231/258/21_60.png,GK,23,23,47,185,77,34,25,30,Argentina,Newell's Old Boys,114,71,23,Pause,4
+A. Rodríguez,https://cdn.sofifa.com/players/242/158/21_60.png,CAM,24,59,57,170,70,79,73,74,Argentina,Newell's Old Boys,106,74,30,Fatigue,1
+A. Moreno,https://cdn.sofifa.com/players/245/055/21_60.png,CAM,21,62,56,177,70,70,69,70,Argentina,Newell's Old Boys,105,69,30,Fatigue,1
+E. Cabrera,https://cdn.sofifa.com/players/241/291/21_60.png,ST,20,47,56,175,70,70,68,55,Argentina,Newell's Old Boys,111,41,20,Fatigue,1
+T. Donsanti,https://cdn.sofifa.com/players/258/294/21_60.png,ST,20,57,60,176,75,54,58,64,Argentina,Newell's Old Boys,145,40,28,Pause,4
+J. Sforza,https://cdn.sofifa.com/players/258/289/21_60.png,CAM,18,59,60,179,76,60,68,64,Argentina,Newell's Old Boys,178,78,17,Pause,4
+M. Llano,https://cdn.sofifa.com/players/258/291/21_60.png,CAM,20,51,48,184,74,62,66,68,Argentina,Newell's Old Boys,150,96,18,Pause,4
+W. Barlasina,https://cdn.sofifa.com/players/258/288/21_60.png,GK,22,26,51,184,74,24,19,18,Argentina,Newell's Old Boys,90,91,21,Pause,4

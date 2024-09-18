@@ -2,6 +2,18 @@ django==3.0.5
 djangorestframework 
 pymongo==3.12.3
 Pytz
-# sqlparse==0.3.1
 sqlparse==0.2.4
 axios
+langchain
+langchain_community
+langchain-chroma
+sentence-transformers
+langchain-huggingface
+django-cors-headers
+djongo
+# ctransformers
+# faiss-cpu
+langchain_experimental
+openai
+pandas
+tabulate
