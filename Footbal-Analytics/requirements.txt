@@ -1,7 +1,0 @@
-torch
-ultralytics
-pillow
-scikit-image
-scikit-learn
-streamlit
-opencv-python
