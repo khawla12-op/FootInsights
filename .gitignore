@@ -5,7 +5,4 @@ dist/
 *.log
 package-lock.json
 package.json
-<<<<<<< HEAD
 .env
-=======
->>>>>>> 550a671b04829babd0bf3c191419915bf8241ad1

@@ -17,10 +17,9 @@ import { Home, ForgetPassword ,Login , Register} from './pages';
 import Layout from "./components/layout";
 import { resources } from "./config/ressources";
 
-// import EditPlayer from "./components/players/EditPlayer";
 import Player from "./components/players/PlayerDetail"
-import FootballField from "./components/terrain/heatMap";
 import ChatbotComponent from "./components/chatbot/chatbot";
+import PlayersDetection from "./components/PlayersDetection/players_detection";
 function App() {
   return (
     <BrowserRouter>
@@ -48,7 +47,6 @@ function App() {
                   <Route path="/forgot-password" index element={<ForgetPassword />}/>
                   <Route
                   element={
-                    //I should add this after fixing the isuue of Cross Origin
                     // <Authenticated
                     //   key="authenticated-auth"
                     //   fallback={<CatchAllNavigate to="/login"/>}
@@ -60,12 +58,9 @@ function App() {
                   }
                 >
                   <Route index element={<Home />}/>
-                  {/* <Route path="/players" element={<PlayerTable />} /> */}
-                  <Route path="/players" element={<Player />} />
-                  {/* <Route path="/players/edit/:id" element={<EditPlayer />} /> */} 
-                  
-                  <Route path="/heatmap" element={<FootballField/>} />
+                  <Route path="/players" element={<Player />} />                  
                   <Route path="/chatbot" element={<ChatbotComponent/>}/>
+                  <Route path="/heatmap" element={<PlayersDetection/>} />
                   
                   </Route>
 

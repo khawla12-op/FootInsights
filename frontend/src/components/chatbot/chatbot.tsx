@@ -3,15 +3,10 @@ import { useState } from "react";
 export default function ChatbotComponent() {
   const [result, setResult] = useState<string | null>(null);
   const [question, setQuestion] = useState<string>("");
-  const [file, setFile] = useState<File | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
 
   const handleQuestionChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setQuestion(event.target.value);
-  };
-
-  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setFile(event.target.files ? event.target.files[0] : null);
   };
 
   const handleSubmit = async (event: React.FormEvent) => {
@@ -19,8 +14,7 @@ export default function ChatbotComponent() {
     setLoading(true);
 
     const formData = new FormData();
-    if (file) formData.append("file", file);
-    if (question) formData.append("question", question);
+    formData.append("question", question);
 
     try {
       const response = await fetch("http://127.0.0.1:8000/predict/", {
@@ -45,7 +39,7 @@ export default function ChatbotComponent() {
 
   const containerStyle = {
     minHeight: '100vh',
-    background: 'linear-gradient(to bottom right, #cce7ff, #e6e6ff)',
+    background: 'linear-gradient(to bottom right, #cce7ff, #5dade2)',
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
@@ -76,7 +70,7 @@ export default function ChatbotComponent() {
     borderRadius: '4px',
     border: 'none',
     color: 'white',
-    backgroundColor: loading ? '#aaa' : '#4f46e5',
+    backgroundColor: loading ? '#aaa' : '#3498db',
     cursor: loading ? 'not-allowed' : 'pointer',
     fontSize: '1rem'
   };
@@ -86,7 +80,8 @@ export default function ChatbotComponent() {
     padding: '1rem',
     backgroundColor: '#f0f0f0',
     borderRadius: '4px',
-    textAlign: 'center'
+    textAlign: 'center',
+
   };
 
   return (
@@ -111,26 +106,11 @@ export default function ChatbotComponent() {
             />
           </div>
 
-          <div>
-            <label htmlFor="file" style={{ marginBottom: '0.5rem', fontSize: '0.875rem' }}>
-              Upload CSV File:
-            </label>
-            <input
-              type="file"
-              id="file"
-              name="file"
-              accept=".csv"
-              onChange={handleFileChange}
-              style={{ ...inputStyle, padding: '0.5rem', cursor: 'pointer' }}
-              required
-            />
-          </div>
-
           <div style={{ textAlign: 'center' }}>
             <button
               type="submit"
               style={buttonStyle}
-              disabled={loading || !file || !question}
+              disabled={loading || !question}
             >
               {loading ? "Processing..." : "Submit"}
             </button>
@@ -140,7 +120,8 @@ export default function ChatbotComponent() {
         {result && (
           <div style={resultStyle}>
             <h3 style={{ fontWeight: 'bold' }}>Result:</h3>
-            <p>{result}</p>
+            <p style={{ fontFamily: 'Arial, sans-serif',
+}}>{result}</p>
           </div>
         )}
       </div>

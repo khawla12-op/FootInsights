@@ -11,9 +11,11 @@ sentence-transformers
 langchain-huggingface
 django-cors-headers
 djongo
-# ctransformers
-# faiss-cpu
 langchain_experimental
 openai
 pandas
 tabulate
+#Those concerns players detection 
+opencv-python
+scikit-image
+ultralytics
